@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ActionBar 标题默认宽度 -->
+    <dimen name="default_title_text_width">150dp</dimen>
+    <!--ActionBar 标题默认字体大小 -->
+    <dimen name="default_title_text_size">9sp</dimen>
+    <!--ActionBar 默认边距大小 -->
+    <dimen name="default_view_horizontal_padding">14dp</dimen>
+    <!-- 阴影线的高度 -->
+    <dimen name="default_shadow_line_height">1dp</dimen>
+
+    <!-- actionbar 色值 -->
+    <color name="actionbar_bg_color_normal">@android:color/transparent</color>
+    <color name="actionbar_bg_color_pressed">#fff2f2f2</color>
+    <color name="default_shadow_line_color">#ffeeeeee</color>
+    <!-- ActionBar 标题默认字体颜色 -->
+    <color name="default_title_text_color">#ff000000</color>
+
+    <!-- 默认激活阴影显示 -->
+    <bool name="enable_shadow_line">true</bool>
+
+
+
+    <dimen name="default_tab_text_size">14sp</dimen>
+    <color name="default_tab_text_color">#ff000000</color>
+    <color name="default_tab_indicator_bg">@android:color/transparent</color>
+    <color name="default_badge_bg">#ffff0000</color>
+
+
+</resources>

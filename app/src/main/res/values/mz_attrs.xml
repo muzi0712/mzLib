@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="xtActionBarStyle" format="reference" />
+    <attr name="xtTabButtonStyle" format="reference" />
+
+
+    <declare-styleable name="MZActionBar">
+        <attr name="xtTitleTextWidth" format="dimension"/>
+        <attr name="xtTitleTextSize" format="dimension"/>
+        <attr name="xtTitleTextColor" format="color"/>
+        <attr name="shadow_line_height" format="dimension"/>
+        <attr name="enable_shadow_line" format="boolean"/>
+        <attr name="shadow_drawable" format="reference|color"/>
+
+        <attr name="android:ellipsize"/>
+    </declare-styleable>
+    
+    <declare-styleable name="MZTabButton">
+        <attr name="tabLabelText" format="string"/>         <!-- tab标签 -->
+        <attr name="tabLabelTextSize" format="dimension"/>  <!-- tab标签字体大小 -->
+        <attr name="tabLabelTextColor" format="color"/>     <!-- tab标签字体颜色 -->
+        <attr name="tabIconDrawable" format="reference"/> <!-- tab的图标 -->
+        <attr name="tabIndicatorDrawable" format="reference|color"/> <!-- tab的指示器drawable -->
+        <attr name="enableTabIndicator" format="boolean"/>       <!-- 是否激活指示器显示 -->
+        <attr name="badgeDrawable" format="reference|color"/> <!-- 消息标识图标 -->
+    </declare-styleable>
+
+</resources>

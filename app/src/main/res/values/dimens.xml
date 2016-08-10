@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- action bar 高度  -->
+    <dimen name="actionbar_height">44dp</dimen>
+    <!-- tab bar 高度 -->
+    <dimen name="tab_bar_height">49dp</dimen>
+
+    <dimen name="fab_margin">0dp</dimen>
+
+    <!-- commons -->
+    <dimen name="divider_line_height">1dp</dimen>
+    <dimen name="divider_line_width">1dp</dimen>
+    <dimen name="divider_line_height_small">0.5dp</dimen>
+
+    <!-- font sizes -->
+    <dimen name="font_larger">22sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_tiny">10sp</dimen>
+
+    <!-- typical spacing between two views 布局时在写margins 和 paddings时 使用如下尺寸格式来布局 -->
+    <dimen name="spacing_huge">40dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="spacing_small">10dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+
+    <!-- typical sizes of views -->
+    <dimen name="button_height_max_tall">80dp</dimen>
+    <dimen name="button_height_tall">60dp</dimen>
+    <dimen name="button_height_normal">40dp</dimen>
+    <dimen name="button_height_short">32dp</dimen>
+
+    <dimen name="image_height_max_tall">120dp</dimen>
+    <dimen name="image_height_tall">60dp</dimen>
+    <dimen name="image_height_normal">45dp</dimen>
+    <dimen name="image_height_short">25dp</dimen>
+
+
+    <dimen name="list_height_tall">60dp</dimen>
+    <dimen name="list_height_normal">40dp</dimen>
+    <dimen name="list_height_short">32dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="post_message_edit_height">160dp</dimen>
+</resources>

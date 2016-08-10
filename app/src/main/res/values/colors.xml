@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- basic colors -->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff432f</color>
+    <color name="blue">#267ebd</color>
+    <color name="green">#ff27d34d</color>
+    <color name="orange">#ffeb6100</color>
+
+    <!-- gray -->
+    <color name="gray">#fff2f2f2</color>
+    <color name="gray_light">#ffefeeef</color>
+    <color name="gray_dark">#ff5f5f5f</color>
+    <color name="gray_e2e2e2">#ffe2e2e2</color>
+    <color name="gray_999999">#ff999999</color>
+    <color name="gray_535353">#ff535353</color>
+    <color name="gray_959595">#ff959595</color>
+    <color name="gray_F9FAFB">#ffF9FAFB</color>
+    <color name="gl_text_color">#ff535353</color>
+    <color name="gl_net_state_changed_bg_color">#fff2f4b1</color>
+    <color name="gray_807c78">#ff807c78</color>
+    <color name="transparent_alpha_50">#8000</color>
+    <color name="transparent_alpha_00">#0000</color>
+    <color name="indicator_unselected">#FF6D6D6D</color>
+    <color name="indicator_selected">#ffeb6100</color>
+    <color name="person_color">#666666</color>
+
+    <!-- 半透明白色 -->
+    <color name="trs_white">#30ffffff</color>
+    <color name="alipay">#1cabec</color>
+    <color name="wechat">#41bc90</color>
+    <color name="unionpay">#e24d53</color>
+    <color name="property_management_fee">#DD5056</color>
+    <color name="parking_rate">#56CDF8</color>
+    <color name="shared_by_all">#DD5056</color>
+    <color name="image_selected_color">#7f000000</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

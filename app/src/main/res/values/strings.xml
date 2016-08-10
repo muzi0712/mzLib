@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">MuziLib</string>
+    
+     <!-- 异常提示消息 -->
+    <string name="network_not_available_msg">当前网络状态不可用,请检查网络设置</string>
+    <string name="server_error_msg">服务器异常</string>
+    <string name="version_unknown_msg">未知版本</string>
+
+    <!-- http连接返回错误消息 -->
+    <string name="http_connect_auth_failure_error_msg">Http请求参数错误</string>
+    <string name="http_connect_network_error_msg">网络异常，请检查你的网络</string>
+    <string name="http_connect_no_connection_error_msg">网络异常，请检查你的网络</string>
+    <string name="http_connect_parse_error_msg">呀，应用发生错误了</string>
+    <string name="http_connect_server_error_msg">服务端异常</string>
+    <string name="http_connect_timeout_error_msg">网络异常，请检查你的网络</string>
+    <string name="http_connect_unknown_error_msg">呀，应用发生错误了</string>
+
+    <!-- 全局提示消息 -->
+    <string name="gl_wait_msg">请稍等</string>
+
+</resources>
